@@ -9,7 +9,6 @@ edit 60 ="Dinesh123"
 edit 70 ="Vignesh"
 edit 80 ="hike"
 gffrds
-
 love
 asdf
 sdafasd
@@ -17,16 +16,3 @@ fsdafsad
 fsdfsdf
 f
 sdafsdf
-
-king
-
-
-
-king
-
-
-
-123
-
-gfds
-
